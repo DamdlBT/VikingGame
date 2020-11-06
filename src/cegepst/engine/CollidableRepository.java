@@ -1,4 +1,6 @@
-package cegepst.engine.entity;
+package cegepst.engine;
+
+import cegepst.engine.entity.StaticEntity;
 
 import java.util.ArrayList;
 import java.util.Collection;
